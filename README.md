@@ -1,5 +1,6 @@
 # Testclockify
-An app that receive a list of records entered in Clockify through the API. In our case, these are tasks that were recorded earlier through the site.
+An app that receive a list of records entered in Clockify through the API. 
+In our case, these are tasks that were recorded earlier through the site.
 
 # TechStack 
 - Django
