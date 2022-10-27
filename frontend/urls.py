@@ -2,6 +2,7 @@ from django.urls import path
 from backend import views
 
 urlpatterns = [
-    path('', views.get_data, name='get_data'),
+    path('', views.get_homepage, name='get_homepage'),
+    path('all/', views.get_data, name='get_data'),
 ]
 

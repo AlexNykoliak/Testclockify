@@ -13,6 +13,10 @@ def get_data(request):
     return render(request, 'base.html', {'name': name})
 
 
+def get_homepage(request):
+    return render(request, 'home.html')
+
+
 
 
 
