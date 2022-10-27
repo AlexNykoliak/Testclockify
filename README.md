@@ -23,5 +23,5 @@ With poetry:
 ```
 When you are running the server you are going to the main page where there are all tasks from clockify. If we want to receive report on stdout we need to go to backend.views file, and there we have 2 functions, which we can print and receive: 
 1. Total time for each task by dateRangeStart and dateRangeEnd;
-2. Total project time (All tasks)
+2. Total project time (All tasks);
 
