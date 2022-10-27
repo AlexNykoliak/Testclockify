@@ -1,6 +1,6 @@
 # Testclockify
 An app that receive a list of records entered in Clockify through the API. 
-In our case, these are tasks that were recorded earlier through the site. App is devided for two parts: 'backend' - where we have our logic and 'frontend' - which will help us to provide separation of concerns in the future when it will be necessary. 
+In our case, these are tasks that were recorded earlier through clockify. App is devided for two parts: 'backend' - where we have our logic and 'frontend' - which will help us to provide separation of concerns in the future when it will be necessary. 
 
 # TechStack 
 - Django
