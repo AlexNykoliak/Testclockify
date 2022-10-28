@@ -27,4 +27,4 @@ When you are running the server you are going to the main page where there are a
 
 
 (screenshot of the main page)
-![Знімок екрана 2022-10-27 о 12 51 36](https://user-images.githubusercontent.com/105149923/198256938-40564f8e-7ae5-4351-92ff-484d0ececa95.png)
+
